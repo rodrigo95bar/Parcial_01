@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1558025108 source:c:\users\brankita\desktop\laboratorio_01_tp_'02\tp_02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn_arrays.h"
+	"arrayfantasma.h"
+
+1558025108 asma.h"
+
+1558025545 c:\users\brankita\desktop\laboratorio_01_tp_'02\tp_02\utn_arrays.h
+	"validations.h"
+
+1558025545 ns.h"
+
+1558025545 c:\users\brankita\desktop\laboratorio_01_tp_'02\tp_02\validations.h
+
+1557857863 c:\users\brankita\desktop\laboratorio_01_tp_'02\tp_02\arrayfantasma.h
+
+1558025545 source:c:\users\brankita\desktop\laboratorio_01_tp_'02\tp_02\utn_arrays.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn_arrays.h"
+	"validations.h"
+
+1558025545 source:c:\users\brankita\desktop\laboratorio_01_tp_'02\tp_02\validations.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1558025545 
+
+1558046692 source:/home/alumno/Descargas/paraParcial-master/TP_02/informes.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"orquesta.h"
+
+1558035382 /home/alumno/Descargas/paraParcial-master/TP_02/utn.h
+
+1558046138 /home/alumno/Descargas/paraParcial-master/TP_02/orquesta.h
+
+1558048127 source:/home/alumno/Descargas/paraParcial-master/TP_02/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"orquesta.h"
+
+1558048717 source:/home/alumno/Descargas/paraParcial-master/TP_02/orquesta.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"orquesta.h"
+
+1558035382 source:/home/alumno/Descargas/paraParcial-master/TP_02/utn.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"fantasma.h"
+
+1558035382 /home/alumno/Descargas/paraParcial-master/TP_02/fantasma.h
+
